@@ -10,3 +10,5 @@ set foldenable
 "set foldlevelstart=2
 "set foldnestmax=2
 inoremap jk <esc>
+nnoremap B ^
+nnoremap E $
